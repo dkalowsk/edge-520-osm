@@ -2,7 +2,7 @@
 Open Street Maps for Garmin Edge 520
 
 This repo contains a series of map files created for the Garmin Edge 520 based
-off of files generated from the http://garmin.openstreetmaps.nl website.
+off of files generated from the http://garmin.openstreetmap.nl website.
 
 This is basically a mirror so that I don't have to re-request the image file
 every time.  Since it's git, updates can be provided.
